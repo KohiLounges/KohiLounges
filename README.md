@@ -16,7 +16,7 @@
 - **Personal Email:** KohiLounges@gmail.com
 
 ## 🌐 Social Media:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/playmides) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/holypvp) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KohiLounges) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KohiLounges) 
 
@@ -28,13 +28,13 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KohiLoungess&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KohiLoungess&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KohiLoungess&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KohiLounges&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=KohiLoungess&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KohiLounges&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme:
 <img src="https://i.imgur.com/af4X6ZE.jpg" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KohiLoungess&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KohiLounges&icon=0&color=0)](https://visitcount.itsvg.in)
