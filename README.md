@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ **Hello! My name is Santino, but I'm often called Kohi.**<br>
+✨ **Hello! My name is Santino Gregoret, but I'm often called Kohi.**<br>
 🇦🇷 I'm from Argentina, 18 years old. I founded **Mides Projects** in 2019, which owns **holypvp**, **playmides**, and several other enterprises.<br>
 
 📚 **Currently Studying:** Systems Analysis<br>
