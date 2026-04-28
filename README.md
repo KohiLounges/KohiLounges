@@ -1,6 +1,6 @@
 # 💫 About Me:
 ✨ **Hello! My name is Santino Gregoret, but I'm often called Kohi.**<br>
-🇦🇷 I'm from Argentina, 18 years old. I founded **Mides Projects** in 2019, which owns **holypvp**, **playmides**, and several other enterprises.<br>
+🇦🇷 I'm from Argentina, 20 years old. I founded **Mides Projects** in 2019, which owns **holypvp**, **playmides**, and several other enterprises.<br>
 
 📚 **Currently Studying:** Systems Analysis<br>
 💻 **Programming Skills:** Experience in Java, learning Python and JavaScript<br>
@@ -24,17 +24,3 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KohiLoungess&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KohiLoungess&theme=radical&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KohiLounges&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=KohiLounges&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme:
-<img src="https://i.imgur.com/af4X6ZE.jpg" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=KohiLounges&icon=0&color=0)](https://visitcount.itsvg.in)
