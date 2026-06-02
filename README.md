@@ -40,7 +40,7 @@ Over the last several years, I have led multidisciplinary teams across engineeri
 * Redis
 * MariaDB
 * MongoDB
-* 
+
 ### Operations
 
 * Team Leadership
