@@ -21,15 +21,6 @@ Over the last several years, I have led multidisciplinary teams across engineeri
 
 ---
 
-## Organization
-
-### Mides Projects
-
-Technology group focused on gaming, infrastructure, development, hosting, design, and digital services.
-
-
----
-
 ## Technical Expertise
 
 ### Languages
@@ -67,16 +58,6 @@ Technology group focused on gaming, infrastructure, development, hosting, design
 * Led development, operations, moderation, marketing, and design teams.
 * Built custom authentication, matchmaking, and network management systems.
 * Managed large-scale Linux environments and database infrastructure.
-
----
-
-## Philosophy
-
-> Build systems that scale.
->
-> Build teams that last.
->
-> Build products people remember.
 
 ---
 
