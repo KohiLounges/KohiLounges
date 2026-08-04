@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F2937,100:F5A623&height=190&section=header&text=Santino%20Gregoret&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Founder%20•%20Technical%20Director%20•%20Infrastructure%20Engineer&descAlignY=56&descSize=15" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:1F2937,100:F5A623&height=190&section=header&text=Santino%20Gregoret&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20•%20Technical%20Director%20•%20Infrastructure%20Engineer&descAlignY=56&descSize=15" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1200&color=F5A623&center=true&vCenter=true&width=640&lines=Building+gaming+platforms+at+scale;Infrastructure+that+doesn't+go+down;Kotlin+backends+%2B+React+frontends;Founder+%40+Mides+Projects" alt="typing" />
 
@@ -93,12 +93,7 @@ object Santino {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KohiLounges&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=F5A623&text_color=8B949E&icon_color=F5A623" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KohiLounges&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=F5A623&text_color=8B949E" />
-
-<img src="https://streak-stats.demolab.com?user=KohiLounges&hide_border=true&background=00000000&stroke=30363D&ring=F5A623&fire=F5A623&currStreakLabel=F5A623&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=KohiLounges&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6" />
+<img src="https://raw.githubusercontent.com/KohiLounges/KohiLounges/main/metrics.svg" width="100%" alt="metrics" />
 
 </div>
 
