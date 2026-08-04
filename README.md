@@ -93,7 +93,7 @@ object Santino {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KohiLounges/KohiLounges/main/metrics.svg" width="100%" alt="metrics" />
+<img src="https://raw.githubusercontent.com/KohiLounges/KohiLounges/main/metrics.svg" width="480" alt="metrics" />
 
 </div>
 
