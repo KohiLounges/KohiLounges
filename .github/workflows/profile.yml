@@ -74,5 +74,14 @@ jobs:
 
           # Acento ambar para que matchee con el resto del README
           extras_css: |
-            .field .label, h2 { color: #F5A623 !important; }
-            svg { --color-calendar-graph-day-L4-bg: #F5A623; }
+            h2, .field .label { color: #F5A623 !important; }
+            a { color: #F5A623 !important; }
+
+            /* El isocalendar no usa variables CSS: cada cara del cubo trae
+               fill="#..." hardcodeado. CSS pisa los atributos de presentacion,
+               asi que se apunta al valor exacto de cada nivel. */
+            [fill="#ebedf0"] { fill: #161B22 !important; }   /* vacio  */
+            [fill="#9be9a8"] { fill: #553A12 !important; }   /* nivel 1 */
+            [fill="#40c463"] { fill: #8A5E1C !important; }   /* nivel 2 */
+            [fill="#30a14e"] { fill: #C08327 !important; }   /* nivel 3 */
+            [fill="#216e39"] { fill: #F5A623 !important; }   /* nivel 4 */
