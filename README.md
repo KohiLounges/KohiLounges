@@ -18,7 +18,7 @@
 
 ```kotlin
 object Santino {
-    val role   = "Founder & Technical Director @ Mides Projects"
+    val role   = "Co-Founder & Chief Executive Officer @ Mides Projects"
     val builds = listOf("game networks", "hosting infra", "internal platforms")
     val daily  = listOf("Kotlin", "Java", "Python", "JavaScript")
     val runs   = "Linux fleets · thousands of users · 24/7"
